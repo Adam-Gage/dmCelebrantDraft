@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+
+
+
+.header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    /* max-height: 20vw; */
+}
+
+#hd-bg-vid {
+    position: absolute;
+    z-index: -1;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+img {
+    position: relative;
+    object-fit: cover;
+    z-index: -1;
+    width: 100%;
+    min-height: 15rem;
+}
+
+#hd-name {
+    height: fit-content;
+    width: fit-content;
+    text-align: left;
+    justify-content: center;
+    padding-left: 2rem;
+    color: white;
+    font-family: var(--special-font);
+    font-size: 32px;
+    background: -webkit-linear-gradient(90deg, gold, #eee, gold, goldenrod, gold, #eff, gold);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#hd-name > h1 {
+    font-family: var(--special-font);
+}
+
+#hd-name > p {
+    font-size: 1.5rem;
+    text-align:end;
+}
+
+#ydyw {
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 20px;
+    text-align: center;
+    width: 90%;
+    font-size: 3rem;
+    color: white;
+    line-height: 3rem;
+    max-height: 6rem;
+    padding-top: 5rem;
+    z-index: 3;
+}
+
+
