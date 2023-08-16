@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2b76664.css",
+    "main.js": "/static/js/main.05c564b0.js",
+    "static/js/787.635aedaa.chunk.js": "/static/js/787.635aedaa.chunk.js",
+    "static/media/flowers.mp4": "/static/media/flowers.e6129fe5dc4438ac12d1.mp4",
+    "static/media/birds.mp4": "/static/media/birds.dbd144336e7e021b6ded.mp4",
+    "static/media/poppyvid.mp4": "/static/media/poppyvid.7cea7628fadff7c26546.mp4",
+    "static/media/candlevid.mp4": "/static/media/candlevid.f4e8024b055eec0e4207.mp4",
+    "static/media/butterflyvid.mp4": "/static/media/butterflyvid.d56509195cecfe0edc82.mp4",
+    "static/media/clouds.mp4": "/static/media/clouds.d6a5c0ce5c9db5315bc2.mp4",
+    "static/media/duncan.jpg": "/static/media/duncan.b8e59454994e5eb5a71d.jpg",
+    "static/media/wedding.jpg": "/static/media/wedding.1ef94ad579deeee2282d.jpg",
+    "static/media/funtree.png": "/static/media/funtree.2b99037967a65c003fdb.png",
+    "static/media/buddy.jpg": "/static/media/buddy.5d8433856b0c19cea7f9.jpg",
+    "static/media/header2.png": "/static/media/header2.45b37ec6b872cce23be2.png",
+    "static/media/DMFC.jpg": "/static/media/DMFC.15b9c642b4f318722df7.jpg",
+    "index.html": "/index.html",
+    "main.c2b76664.css.map": "/static/css/main.c2b76664.css.map",
+    "main.05c564b0.js.map": "/static/js/main.05c564b0.js.map",
+    "787.635aedaa.chunk.js.map": "/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b76664.css",
+    "static/js/main.05c564b0.js"
+  ]
+}
